@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+body {
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myDay {
+    font-family: 'Chelsea Market', cursive;
+    color: white;
+    text-shadow: gray 2px 2px;
+    text-align: center;
+    font-size: 95px;
+    margin-top: 125px;
+}
+
+#myClock {
+    font-family: 'Chelsea Market', cursive;
+    color: white;
+    text-shadow: gray 2px 2px;
+    text-align: center;
+    font-size: 60px;
+}
